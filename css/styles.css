@@ -1,7 +1,9 @@
 body {
   background-color: hsl(212, 45%, 89%);
   font-family: 'Outfit', sans-serif;
+  font-size: 15px;
   margin: 0;
+  text-align: center;
 }
 
 .container {
@@ -17,7 +19,12 @@ body {
   width: 100%
 }
 
-.section-heading {}
+.section-heading {
+  color: hsl(218, 44%, 22%);
+  font-size: 1.75em;
+  font-weight: 700;
+  padding: 0 15px;
+}
 
 .instructions {}
 
