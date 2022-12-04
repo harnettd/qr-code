@@ -1,2 +1,27 @@
-.attribution { font-size: 11px; text-align: center; }
-.attribution a { color: hsl(228, 45%, 44%); }
+body {
+  margin: 0;
+}
+
+.container {
+  border: solid black 5px;
+  margin: 0 auto;
+  width: 375px;
+}
+
+.qr-code {
+  width: 100%
+}
+
+.section-heading {}
+
+.instructions {
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
