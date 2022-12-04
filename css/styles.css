@@ -23,13 +23,14 @@ body {
   color: hsl(218, 44%, 22%);
   font-size: 1.75em;
   font-weight: 700;
-  padding: 0 15px;
+  padding: 0 22px;
 }
 
 .instructions {
   color: hsl(220, 15%, 55%);
+  font-size: 1.25em;
   font-weight: 400;
-  padding: 0 15px;
+  padding: 0 22px;
 }
 
 .attribution {
