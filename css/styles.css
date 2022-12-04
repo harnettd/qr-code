@@ -1,5 +1,6 @@
 body {
   background-color: hsl(212, 45%, 89%);
+  font-family: 'Outfit', sans-serif;
   margin: 0;
 }
 
@@ -7,7 +8,7 @@ body {
   background-color: hsl(0, 0%, 100%);
   border-radius: 16px;
   margin: 96px auto;
-  padding:16px;
+  padding: 16px;
   width: 375px;
 }
 
@@ -18,8 +19,7 @@ body {
 
 .section-heading {}
 
-.instructions {
-}
+.instructions {}
 
 .attribution {
   font-size: 11px;
