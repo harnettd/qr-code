@@ -5,10 +5,10 @@ body {
   text-align: center;
 }
 
-.container {
+.vessel {
   background-color: hsl(0, 0%, 100%);
   border-radius: 16px;
-  margin: 96px auto 36px;
+  margin: 96px auto;
   padding: 16px;
   width: 375px;
 }
@@ -18,23 +18,22 @@ body {
   width: 100%
 }
 
-.section-heading {
+.headline {
   color: hsl(218, 44%, 22%);
-  font-size: 1.75em;
+  font-size: 1.75rem;
   font-weight: 700;
-  padding: 0 22px;
+  margin: 24px;
 }
 
 .instructions {
   color: hsl(220, 15%, 55%);
-  font-size: 1.25em;
+  font-size: 1.25rem;
   font-weight: 400;
-  padding: 0 22px;
+  margin: 18px;
 }
 
 .attribution {
   font-size: 11px;
-  text-align: center;
 }
 
 .attribution a {
