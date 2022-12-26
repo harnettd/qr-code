@@ -1,39 +1,42 @@
+html {
+  font-size: 15px;
+}
+
 body {
   background-color: hsl(212, 45%, 89%);
   font-family: 'Outfit', sans-serif;
-  font-size: 15px;
   text-align: center;
 }
 
 .vessel {
   background-color: hsl(0, 0%, 100%);
-  border-radius: 16px;
-  margin: 96px auto;
-  padding: 16px;
-  width: 375px;
+  border-radius: 1rem;
+  margin: 10rem auto;
+  padding: 1rem;
+  width: 20rem;
 }
 
 .qr-code {
-  border-radius: 12px;
-  width: 100%
+  border-radius: 0.75rem;
+  width: 100%;
 }
 
 .headline {
   color: hsl(218, 44%, 22%);
-  font-size: 1.75rem;
+  font-size: 1.4rem;
   font-weight: 700;
-  margin: 24px;
+  margin: 1.25rem;
 }
 
 .instructions {
   color: hsl(220, 15%, 55%);
-  font-size: 1.25rem;
+  font-size: 1rem;
   font-weight: 400;
-  margin: 18px;
+  margin: 1.25rem 1.25rem 1.5rem;
 }
 
 .attribution {
-  font-size: 11px;
+  font-size: 0.75rem;
 }
 
 .attribution a {
