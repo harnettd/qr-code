@@ -15,4 +15,5 @@
 .DS_Store
 .prettierignore
 
-README-old.md
+# Ignore anything in the scratch directory
+scratch
