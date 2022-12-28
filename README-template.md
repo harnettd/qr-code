@@ -35,7 +35,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### What I learned
 
 In this challenge, I learned how to
-- use Google Fonts on a website
+- use Google Fonts on a webpage
 - select HTML elements using CSS class selectors
 - specify lengths in rem units.
 
@@ -47,10 +47,11 @@ Particular topics where further development on my part is needed include
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+- [Google Fonts](https://fonts.google.com/) - Google's collection of open source fonts.
+- [W3Schools CSS tutorial](https://www.w3schools.com/css/default.asp) - W3Schools's
+comprehensive tutorial on CSS, the language used to style webpages.
+- [ScreenRuler](https://gnomecoder.wordpress.com/screenruler/) - An onscreen
+ruler for Ubuntu. This helped me extract lengths in pixels from design images.
 
 ## Author
 - Github - [Derek Harnett](https://github.com/harnettd)
