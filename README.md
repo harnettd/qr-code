@@ -13,6 +13,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
+- [Acknowledgements](#acknowledgements)
 
 ## Overview
 
@@ -54,5 +55,10 @@ comprehensive tutorial on CSS, the language used to style webpages.
 ruler for Ubuntu. This helped me extract lengths in pixels from design images.
 
 ## Author
+
 - Github - [Derek Harnett](https://github.com/harnettd)
 - Frontend Mentor - [@harnettd](https://www.frontendmentor.io/profile/harnettd)
+
+## Acknowledgements
+
+- Thanks to [@Ambe-Mbong-Nwi](https://www.frontendmentor.io/profile/Ambe-Mbong-Nwi) for helpful feedback on my submission.
