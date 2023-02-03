@@ -15,5 +15,9 @@
 .DS_Store
 .prettierignore
 
-# Ignore anything in the scratch directory
-scratch
+# local additions
+design/
+.vscode/
+
+README-instructions.md
+style-guide.md
