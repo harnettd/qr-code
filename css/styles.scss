@@ -1,0 +1,53 @@
+@import "colors"; 
+
+html {
+  font-size: 15px;
+}
+
+body {
+  background-color: $light-gray;
+  font-family: 'Outfit', sans-serif;
+  text-align: center;
+}
+
+main {
+
+  .vessel {
+    background-color: $white;
+    border-radius: 1rem;
+    margin: 10rem auto;
+    padding: 1rem;
+    width: 20rem;
+  }
+
+  .qr-code {
+    border-radius: 0.75rem;
+    width: 100%;
+  }
+
+  .headline {
+    color: $dark-blue;
+    font-size: 1.4rem;
+    font-weight: 700;
+    margin: 1.25rem;
+  }
+
+  .instructions {
+    color: $grayish-blue;
+    font-size: 1rem;
+    font-weight: 400;
+    margin: 1.25rem 1.25rem 1.5rem;
+  }
+}
+
+footer {
+
+  .attribution {
+    font-size: 0.75rem;
+  }
+
+  .attribution a {
+    color: $blue;
+  }
+
+}
