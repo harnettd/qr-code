@@ -44,7 +44,14 @@ In this challenge, I learned how to
 
 Particular topics where further development on my part is needed include
 - deciding whether to use margins or padding to add space around content
+  - **Version 2 update:** Based on ideas I picked up while studying Bootstrap 5, 
+  I generally add `* { margin-top: 0; }` to my stylesheet 
+  and use `margin-bottom` to adjust spacing between elements. 
+  Also, for elements with fixed width and padding,
+  I find `box-sizing: border-box;` to be most convenient.
 - specifying image widths and/or heights in a responsive way.
+  - **Version 2 update:** While not needed for this particular project, the 
+  `<picture>` tag allows you to specify different images across breakpoints.
 
 ### Useful resources
 
@@ -61,4 +68,5 @@ ruler for Ubuntu. This helped me extract lengths in pixels from design images.
 
 ## Acknowledgements
 
+- Thanks to [Frontend Mentor](https://www.frontendmentor.io/) for posting this challenge.
 - Thanks to [@Ambe-Mbong-Nwi](https://www.frontendmentor.io/profile/Ambe-Mbong-Nwi) for helpful feedback on my submission.
