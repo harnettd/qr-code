@@ -23,6 +23,11 @@ main .vessel {
   padding: 1rem;
   width: 21.3333rem;
 }
+@media screen and (max-width: 575px) {
+  main .vessel {
+    margin-top: 5.6rem;
+  }
+}
 main .qr-code {
   border-radius: 0.75rem;
   margin-bottom: 1.2667rem;

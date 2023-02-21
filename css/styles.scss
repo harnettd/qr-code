@@ -1,5 +1,7 @@
 @import "colors";
 
+$mobile: 575px; 
+
 html {
   font-size: 15px;
 }
@@ -30,6 +32,10 @@ main {
     margin: 10rem auto;
     padding: 1rem;
     width: 21.3333rem;
+
+    @media screen and (max-width: $mobile) {
+      margin-top: 5.6rem;
+    }
   }
 
   .qr-code {
