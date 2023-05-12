@@ -5,7 +5,6 @@
   padding: 1rem;
   width: 21.3333rem;
 }
-
 .qr-code-card__code {
   border-radius: 0.75rem;
   display: block;
@@ -13,7 +12,6 @@
   overflow: hidden;
   width: 100%;
 }
-
 .qr-code-card__headline {
   color: hsl(218, 44%, 22%);
   font-family: "Outfit", sans-serif;
@@ -24,7 +22,6 @@
   padding: 0;
   text-align: center;
 }
-
 .qr-code-card__instructions {
   color: hsl(220, 15%, 55%);
   font-family: "Outfit", sans-serif;
