@@ -1,0 +1,17 @@
+@import "colors";
+
+.attribution {
+    font: {
+        family: 'Outfit', sans-serif;
+        size: 0.75rem;
+        weight: 400;
+    }
+
+    margin-top: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.attribution--link {
+    color: $blue;
+}
