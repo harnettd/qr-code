@@ -6,4 +6,8 @@
     justify-content: center;
     opacity: 0.5;
     padding: 10.133rem 0;
+
+    @media screen and (max-width: $mobile) {
+        padding: 5.65rem 0;
+    }
 }

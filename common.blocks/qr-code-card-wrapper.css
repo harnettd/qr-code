@@ -4,4 +4,9 @@
   justify-content: center;
   opacity: 0.5;
   padding: 10.133rem 0;
+}
+@media screen and (max-width: 575px) {
+  .qr-code-card-wrapper {
+    padding: 5.65rem 0;
+  }
 }/*# sourceMappingURL=qr-code-card-wrapper.css.map */
