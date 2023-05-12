@@ -32,13 +32,15 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - HTML5
 - CSS
+- BEM
 
 ### What I learned
 
 In this challenge, I learned how to
 - use Google Fonts on a webpage
 - select HTML elements using CSS class selectors
-- specify lengths in rem units.
+- specify lengths in rem units
+- organize stylesheets using the BEM methodology.
 
 ### Continued development
 
@@ -52,6 +54,8 @@ Particular topics where further development on my part is needed include
 - specifying image widths and/or heights in a responsive way.
   - **Version 2 update:** While not needed for this particular project, the 
   `<picture>` tag allows you to specify different images across breakpoints.
+- **Version 3 update:** In BEM methodology, I'm not sure where to put CSS code like
+  `html {font-size: 15px;}`.
 
 ### Useful resources
 
@@ -60,6 +64,8 @@ Particular topics where further development on my part is needed include
 comprehensive tutorial on CSS, the language used to style webpages.
 - [ScreenRuler](https://gnomecoder.wordpress.com/screenruler/) - An onscreen
 ruler for Ubuntu. This helped me extract lengths in pixels from design images.
+- [BEM 101](https://css-tricks.com/bem-101/) - This is a good place to get started learning
+BEM.
 
 ## Author
 
