@@ -51,21 +51,17 @@ Particular topics where further development on my part is needed include
   and use `margin-bottom` to adjust spacing between elements. 
   Also, for elements with fixed width and padding,
   I find `box-sizing: border-box;` to be most convenient.
-- specifying image widths and/or heights in a responsive way.
+- specifying image widths and/or heights in a responsive way
   - **Version 2 update:** While not needed for this particular project, the 
   `<picture>` tag allows you to specify different images across breakpoints.
-- **Version 3 update:** In BEM methodology, I'm not sure where to put CSS code like
-  `html {font-size: 15px;}`.
+- **Version 3 update:** the placement of CSS code such as `html {font-size: 15px;}` within BEM methodology. 
 
 ### Useful resources
 
 - [Google Fonts](https://fonts.google.com/) - Google's collection of open source fonts.
-- [W3Schools CSS tutorial](https://www.w3schools.com/css/default.asp) - W3Schools's
-comprehensive tutorial on CSS, the language used to style webpages.
-- [ScreenRuler](https://gnomecoder.wordpress.com/screenruler/) - An onscreen
-ruler for Ubuntu. This helped me extract lengths in pixels from design images.
-- [BEM 101](https://css-tricks.com/bem-101/) - This is a good place to get started learning
-BEM.
+- [W3Schools CSS tutorial](https://www.w3schools.com/css/default.asp) - W3Schools's comprehensive tutorial on CSS, the language used to style webpages.
+- [ScreenRuler](https://gnomecoder.wordpress.com/screenruler/) - An onscreen ruler for Ubuntu. This helped me extract lengths in pixels from design images.
+- [BEM 101](https://css-tricks.com/bem-101/) - This is a good place to start learning about BEM.
 
 ## Author
 
