@@ -1,0 +1,35 @@
+.qr-code-card {
+  background-color: hsl(0, 0%, 100%);
+  border-radius: 1rem;
+  box-sizing: border-box;
+  padding: 1rem;
+  width: 21.3333rem;
+}
+
+.qr-code-card__code {
+  border-radius: 0.75rem;
+  display: block;
+  margin: 0 0 1.2667rem;
+  overflow: hidden;
+  width: 100%;
+}
+
+.qr-code-card__headline {
+  color: hsl(218, 44%, 22%);
+  font-family: "Outfit", sans-serif;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.3;
+  margin: 0 1rem 1rem;
+  padding: 0;
+  text-align: center;
+}
+
+.qr-code-card__instructions {
+  color: hsl(220, 15%, 55%);
+  font-family: "Outfit", sans-serif;
+  font-weight: 400;
+  margin: 0 1rem 1.6667rem;
+  padding: 0;
+  text-align: center;
+}/*# sourceMappingURL=qr-code-card.css.map */
