@@ -1,10 +1,11 @@
 @import "colors";
+@import "fonts";
 
 .attribution {
     font: {
-        family: 'Outfit', sans-serif;
+        family: $font-stack;
         size: 0.75rem;
-        weight: 400;
+        weight: $regular;
     }
 
     text-align: center;

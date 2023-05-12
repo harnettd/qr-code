@@ -1,5 +1,6 @@
 @import "checkpoints";
 @import "colors";
+@import "fonts";
 
 .qr-code-card {
   background-color: $white;
@@ -21,9 +22,9 @@
   color: $dark-blue;
 
   font: {
-    family: 'Outfit', sans-serif;
+    family: $font-stack;
     size: 1.4rem;
-    weight: 700;
+    weight: $bold;
   }
 
   line-height: 1.3;
@@ -36,8 +37,8 @@
   color: $grayish-blue;
 
   font: {
-    family: 'Outfit', sans-serif;
-    weight: 400;
+    family: $font-stack;
+    weight: $regular;
   }
 
   margin: 0 1rem 1.6667rem;
