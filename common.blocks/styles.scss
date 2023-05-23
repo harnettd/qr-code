@@ -1,8 +1,5 @@
-@import "page";
-@import "qr-code-card-wrapper";
-@import "qr-code-card";
-@import "attribution";
-
-html {
-  font-size: 15px;
-}
+@import "root/root";
+@import "page/page";
+@import "qr-code-card-wrapper/qr-code-card-wrapper";
+@import "qr-code-card/qr-code-card";
+@import "attribution/attribution";
